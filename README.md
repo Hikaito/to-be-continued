@@ -1,2 +1,2 @@
-# Butterfly_Corgi_Mod_Minecraft
-Mod to add Butterfly Corgi Mob to Minecraft
+# Butterfly_Corgi_Mod
+Mod to add Butterfly Corgi Mob
